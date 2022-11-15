@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasgabwinter
+- 👋 Hi, I’m Lucas
 - 👀 I’m a mathematician and software engineering student. 
 - 🌱 I’m currently learning data engineering, data analytics, machine learning and python programming.
 - 📫 Connect with me on linkedin: https://www.linkedin.com/in/lucas-gabriel-winter-205a44177/
