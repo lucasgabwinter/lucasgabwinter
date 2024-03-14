@@ -11,9 +11,12 @@ I can work with
   <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL
   and so on...
 
+
+## 🌱 Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabwinter&langs_count=8&theme=radical&layout=compact" alt="Top Langs"/>
+</p>
+
 ## 📫 Connect with me 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-gabriel-winter-205a44177/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabwinter&langs_count=8" alt="Top Langs"/>
-</p>
