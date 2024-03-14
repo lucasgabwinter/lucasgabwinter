@@ -2,7 +2,7 @@
 - 🌱 I can work with HTML, CSS, JavaScript, React.JS, Node.JS, Python, SQL and so on...
 - 📫 Connect with me on linkedin: https://www.linkedin.com/in/lucas-gabriel-winter-205a44177/
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabwinter)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabwinter&langs_count=8)
 
 <!---
 lucasgabwinter/lucasgabwinter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
