@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m a software engineering student. 
-- 🌱 I’m currently learning data engineering, data analytics, machine learning and python programming.
+- 🌱 I can work with HTML, CSS, JavaScript, React.JS, Node.JS, Python, SQL and so on...
 - 📫 Connect with me on linkedin: https://www.linkedin.com/in/lucas-gabriel-winter-205a44177/
 
 <!---
