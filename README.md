@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m a software engineering student. 
 - 🌱 I can work with HTML, CSS, JavaScript, React.JS, Node.JS, Python, SQL and so on...
 - 📫 Connect with me on linkedin: https://www.linkedin.com/in/lucas-gabriel-winter-205a44177/
 
