@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Lucas
-- 🌱 I can work with HTML, CSS, JavaScript, React.JS, Node.JS, Python, SQL and so on...
-- 📫 Connect with me on linkedin: https://www.linkedin.com/in/lucas-gabriel-winter-205a44177/
+# 👋 Hi, I’m Lucas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabwinter&langs_count=8)
+## 🌱 Skills
+I can work with 
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+  <img src="https://img.icons8.com/office/48/000000/react.png"/> React.JS
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.JS
+  <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
+  <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL
+  and so on...
 
-<!---
-lucasgabwinter/lucasgabwinter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect with me 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-gabriel-winter-205a44177/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabwinter&langs_count=8" alt="Top Langs"/>
+</p>
