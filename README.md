@@ -2,13 +2,13 @@
 
 ## 🌱 Skills
 I can work with 
-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-  <img src="https://img.icons8.com/office/48/000000/react.png"/> React.JS
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.JS
-  <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
-  <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+<img src="https://img.icons8.com/office/48/000000/react.png"/> React.JS
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.JS
+<img src="https://img.icons8.com/color/48/000000/python.png"/> Python
+<img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL
   and so on...
 
 
